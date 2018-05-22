@@ -1,16 +1,33 @@
-# googler
+<h3 style="text-align:center;font-weight: 300;" align="center">
+  <img src="/public/img/logo.png" width="400px">
+</h3>
 
 
+<p align="center">
+  Google's recipe for <b>Humans™</b>
+
+  <br/>
+  <br/>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" width="87px">
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg" width="130px">
+  <img src="https://img.shields.io/badge/downloads-0k-yellow.svg?style=flat-square">
+
+</p>
+
+|val 👉|  Data Structure [:books:](#ds-:books:) | Algorithm [:book: ](#algorithm-:book: ) | System Design [:pencil: ](#sd-:pencil: )| Python [:snake:	](#python-:snake:	) |  GitHub  [:octocat: ](#github-:octocat: ) | Resume [:page_facing_up: ](resume-:page_facing_up: ) | Networking [:goal_net: ](#network-:goal_net: )
+| :--------: | :--------: |  :--------: |  :--------: |  :--------: | :---------: | :---------: | :-------: |
+|| **0** | **1** | **2** | **3** | **4** | **5** | **6**  |
+
+
+</br>
+
+
+
+<!-- ## Dependencies -->
+
+## Everything For know
 <!DOCTYPE html>
 <html>
-
-<head>
-  <title>🍻 cs - 幕布</title>
-  <meta charset="utf-8" />
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta name="renderer" content="webkit" />
-  <meta name="author" content="mubu.com" />
-</head>
 
 <body style="margin: 50px 20px;color: #333;font-family: 'Helvetica Neue','Hiragino Sans GB','WenQuanYi Micro Hei','Microsoft Yahei',sans-serif;">
   <div class="export-wrapper">
@@ -562,3 +579,24 @@
 </body>
 
 </html>
+
+## Author
+[![Yu Zhou](https://avatars3.githubusercontent.com/u/6414741?s=100&v=4)](http://yuzhoujr.com)
+---|
+[Yu Zhou :rocket:](http://yuzhoujr.com)
+
+
+## License
+
+MIT © [Yu Zhou](http://yuzhoujr.com)
+
+
+<br/>
+
+<!-- FOSSA here maybe -->
+
+
+> ![home](http://yuzhoujr.com/legacy/emoji/home.svg)
+[yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
+> ![github](http://yuzhoujr.com/legacy/emoji/github.svg)  [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
+> ![linkedin](http://yuzhoujr.com/legacy/emoji/linkedin.svg)  [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
