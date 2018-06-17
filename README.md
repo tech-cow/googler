@@ -44,7 +44,7 @@
 
 | 〰️  | 〰️  | 〰️  |
 | :---:         |     :---:      |          :---: |
-| [ ![](/public/img/python_zaolunzi.png)  ![Star](https://img.shields.io/github/stars/yuzhoujr/googler.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/yuzhoujr/googler.svg?style=social&label=Fork)](/markdown/zaolunzi.md)|  [ ![](/public/img/ds_logo.png)  ![Star](https://img.shields.io/github/stars/yuzhoujr/googler.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/yuzhoujr/googler.svg?style=social&label=Fork)](/markdown/python_jinjie.md)|  [ ![](/public/img/ds_logo.png)  ![Star](https://img.shields.io/github/stars/yuzhoujr/googler.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/yuzhoujr/googler.svg?style=social&label=Fork)](/markdown/python_jinjie_blog.md)
+| [ ![](/public/img/python_zaolunzi.png)  ![Star](https://img.shields.io/github/stars/yuzhoujr/googler.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/yuzhoujr/googler.svg?style=social&label=Fork)](/markdown/zaolunzi.md)|  [ ![](/public/img/python_jinjie.png)  ![Star](https://img.shields.io/github/stars/yuzhoujr/googler.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/yuzhoujr/googler.svg?style=social&label=Fork)](/markdown/python_jinjie.md)|  [ ![](/public/img/python_blog.png)  ![Star](https://img.shields.io/github/stars/yuzhoujr/googler.svg?style=social&label=Star) ![Fork](https://img.shields.io/github/forks/yuzhoujr/googler.svg?style=social&label=Fork)](/markdown/python_jinjie_blog.md)
 
 
 <br/><br/>
