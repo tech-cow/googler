@@ -31,3 +31,27 @@
 
 </body>
 </html>
+
+
+
+## Author
+[![Yu Zhou](https://avatars3.githubusercontent.com/u/6414741?s=100&v=4)](http://yuzhoujr.com)
+---|
+[Yu Zhou :rocket:](http://yuzhoujr.com)
+
+
+## License
+
+MIT © [Yu Zhou](http://yuzhoujr.com)
+
+
+<br/>
+
+<!-- FOSSA here maybe -->
+
+
+> ![home](http://yuzhoujr.com/legacy/emoji/home.svg)
+[yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
+> ![github](http://yuzhoujr.com/legacy/emoji/github.svg)  [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
+> ![linkedin](http://yuzhoujr.com/legacy/emoji/linkedin.svg)  [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
+
