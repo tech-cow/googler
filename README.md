@@ -21,7 +21,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>🍻 cs - 幕布</title>
+<title>🍻 cs </title>
 <meta charset="utf-8"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="renderer" content="webkit"/>
